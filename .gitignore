@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary output / debug files
+debug.txt
+debug2.txt
+output.txt
+output_utf8.txt
+result2.txt
+chart_output.txt
+lyrics_output.txt
+
+# OS generated files
+Thumbs.db
+Desktop.ini
